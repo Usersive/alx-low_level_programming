@@ -1,6 +1,5 @@
-#include "holberton.h"
-#include <stdlib.h>
-#include <stdio.h>
+include "holberton.h"
+
 /**
  * print_alphabet - entry point
  *
