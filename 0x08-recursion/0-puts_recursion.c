@@ -4,11 +4,11 @@
 
 /**
 
- * _puts_recursion - prints a string.
+  _puts_recursion - prints a string.
 
- * @s: string
+  @s: string
 
- * Return: no return.
+  Return: no return.
 
  */
 
